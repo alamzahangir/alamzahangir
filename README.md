@@ -9,7 +9,7 @@
 </div>
 
 <div id="header" align="center">
-  <h3>A passionate QA Specialist, working with SELISE Digital Platforms</h3>
+  <h3>A passionate QA Specialist, at working with SELISE Group</h3>
 </div>
                    
 
