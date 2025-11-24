@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zahangir Alam</h1>
-<h3 align="center">Quality Assurance Specialist | Manual & Automation Testing</h3>
+<h3 align="center">QA Specialist || A passionate QA Specialist, working with SELISE Group</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-QA%20Specialist-blue" />
-  <img src="https://img.shields.io/badge/Focus-Testing%20%26%20Automation-green" />
-  <img src="https://img.shields.io/badge/Tools-Selenium%20%7C%20Postman%20%7C%20Jira-orange" />
+  <img src="https://img.shields.io/badge/Focus-Full Stack in QA%20%26%20Automation Engineer-green" />
+  <img src="https://img.shields.io/badge/Tools-Cypress%20%7C%20Selenium%20%7C%20Appium%20%7C%20Jenkins CI/CD%20%7C%20Github CI/CD Action%20%7C%20JMeter%20%7C%20Postman API Testing%20%7C%20VAPT Testing%20%7C%20OWASP%20%7C%20Jira%20%7C%20Github%20%7C%20ClickUp%20%7C%20Trello-orange" />
 </p>
 
 ---
@@ -46,22 +46,8 @@
   </li>
 </ul>
 
----
-
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
 
 <h2>📫 Contact</h2>
 <ul>
-  <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
-  <li>LinkedIn: <a href="YOUR_LINKEDIN_URL" target="_blank">Your LinkedIn</a></li>
-  <li>Portfolio: <a href="YOUR_PORTFOLIO_URL" target="_blank">Your Portfolio</a></li>
+  <li>Email: <a href="mailto:youremail@example.com">zahangir.alam@selisegroup.com</a></li>
 </ul>
